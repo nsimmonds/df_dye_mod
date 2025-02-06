@@ -1,0 +1,16 @@
+[ID:df_dyes_expanded]
+[NAME:DF Dyes Expanded]
+[NUMERIC_VERSION:5001]
+[DISPLAYED_VERSION:50.01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:5001]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
+[AUTHOR:Nick Simmonds]
+[DESCRIPTION:This mod greatly expands the available dyes for clothing, introducing new colors, new plants, and even some creatures which can be used for dyes.]
+
+[STEAM_TITLE:DF Dyes Expanded]
+[STEAM_DESCRIPTION:This mod greatly expands the available dyes for clothing, introducing new colors, new plants, and even some creatures which can be used for dyes.]
+[STEAM_TAG:mod] 
+[STEAM_TAG:dwarf fortress]
+[STEAM_CHANGELOG:Initial launch.]
+
+[STEAM_FILE_ID:#########]
